@@ -29,6 +29,8 @@ function validator() {
     input.value = '';
     result.innerHTML = '';
   });
+
+  const myChange = 'changed';
 }
 
 validator();
